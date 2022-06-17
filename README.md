@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 3. I've a good problem solving skils. I've been coding since my first year of college so it has been almost 7 years I've been doing coding.
 4. I'm familiar with Git and open source which will be helpful during review, conflict and rollback whenever required in a project.
 5. Recently, I started learning system design. I have developed skills of high and low level design and it can benefecial if required.
-6. I'm probably very good and googling and finding the right solution over the internet.
+6. I'm very good at googling and finding the right solution over the internet.
 7. I can develop things from scratch with very little help from colleague and seniors. I'll be looking to solve by best of myself most of time.
 8. I can do testing whether i have to test by hardcoded-values(very hectic though) or using some software like postman, I can easily do that.
 9. I can manage databases as well. So, whether we've to do basic or advanced operation in databases, I'll be able to do that. Also, I'm familiar with SQL and NoSQL both the databases.

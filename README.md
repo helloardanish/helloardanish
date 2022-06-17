@@ -83,6 +83,20 @@ Here are some ideas to get you started:
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="40px" height="40px"></a>
 <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="40px" height="40px"></a>
 
+**You might be still wondering, what I'll bring to the table ?** Well, below are few points which represents me as a developer.
+1. I can read, understand, write code in multiple languages. Most familiar languages : Java, Python, C++, Android, R, Kotlin, PHP, JavaScript(most of its libraries like jQuery, Angular, React too), etc,.
+2. I've experience of working on two big projects(large data) in industries. I always focus on efficiency and simplicity. I can minimize the request and response time using modern concepts, using best data structures and algorithmic approach.
+3. I've a good problem solving skils. I've been coding since my first year of college so it has been almost 7 years I've been doing coding.
+4. I'm familiar with Git and open source which will be helpful during review, conflict and rollback whenever required in a project.
+5. Recently, I started learning system design. I have developed skills of high and low level design and it can benefecial if required.
+6. I'm probably very good and googling and finding the right solution over the internet.
+7. I can develop things from scratch with very little help from colleague and seniors. I'll be looking to solve by best of myself most of time.
+8. I can do testing whether i have to test by hardcoded-values(very hectic though) or using some software like postman, I can easily do that.
+9. I can manage databases as well. So, whether we've to do basic or advanced operation in databases, I'll be able to do that. Also, I'm familiar with SQL and NoSQL both the databases.
+10. I've experience in working full agile development. It'll definitely help for very fast development and also with continuous communications. Systems/products will be much optimized and will meet expectectation.
+11. I'm adaptable to change. I've explored things by my own interest and haven't received much role to explore in the industry. I'll be able to learn and adapt new and growing technologies easily.
+
+**Please reach out to helloardanish@gmail.com if any role matches my profile and will be challenging. I'll not be looking forward to work in service-based company(most of the time, environment is so toxic you don't much to express and not get chance to work at full potential). Contact only if are start-up with a clear long term goal or product based company.**
   
 <!--
 **Testing Frameworks**

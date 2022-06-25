@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 10. I've experience in working full agile development. It'll definitely help for very fast development and also with continuous communications. Systems/products will be much optimized and will meet expectectation.
 11. I'm adaptable to change. I've explored things by my own interest and haven't received much role to explore in the industry. I'll be able to learn and adapt new and growing technologies easily.
 
-**Please reach out to helloardanish@gmail.com if any role matches my profile and will be challenging. I'll not be looking forward to work in service-based company(most of the time, environment is so toxic you don't much to express and not get chance to work at full potential). Contact only if are start-up with a clear long term goal or product based company.**
+**Please reach out to helloardanish@gmail.com if any role matches my profile and will be challenging. I'll be looking forward to join a product-based company or a start-up with a clear long term goal.**
   
 <!--
 **Testing Frameworks**

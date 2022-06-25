@@ -83,6 +83,13 @@ Here are some ideas to get you started:
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="40px" height="40px"></a>
 <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="40px" height="40px"></a>
 
+ 
+ ---
+ 
+ **LeetCode Stats** - [A R Danish](https://leetcode.com/helloardanish)
+ 
+ [![A R LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=helloardanish)](https://github.com/KnlnKS/leetcode-stats)
+ 
 **You might be still wondering, what I'll bring to the table ?** Well, below are few points which represents me as a developer.
 1. I can read, understand, write code in multiple languages. Most familiar languages : Java, Python, C++, Android, R, Kotlin, PHP, JavaScript(most of its libraries like jQuery, Angular, React too), etc,.
 2. I've experience of working on two big projects(large data) in industries. I always focus on efficiency and simplicity. I can minimize the request and response time using modern concepts, using best data structures and algorithmic approach.

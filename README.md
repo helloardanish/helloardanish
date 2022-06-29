@@ -90,6 +90,7 @@ Here are some ideas to get you started:
  
  [![A R LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=helloardanish)](https://github.com/KnlnKS/leetcode-stats)
  
+<!--
 **You might be still wondering, what I'll bring to the table ?** Well, below are few points which represents me as a developer.
 1. I can read, understand, write code in multiple languages. Most familiar languages : Java, Python, C++, Android, R, Kotlin, PHP, JavaScript(most of its libraries like jQuery, Angular, React too), etc,.
 2. I've experience of working on two big projects(large data) in industries. I always focus on efficiency and simplicity. I can minimize the request and response time using modern concepts, using best data structures and algorithmic approach.
@@ -105,6 +106,7 @@ Here are some ideas to get you started:
 
 **Please reach out to helloardanish@gmail.com if any role matches my profile and will be challenging. I'll be looking forward to join a product-based company or a start-up with a clear long term goal.**
   
+-->
 <!--
 **Testing Frameworks**
 
@@ -137,6 +139,8 @@ Here are some ideas to get you started:
 </a>
 <a href="https://www.linkedin.com/in/helloardanish/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+
+
 </a>
 
 </p> 

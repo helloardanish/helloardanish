@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on sprint boot, microservices, rest-api, angular, java, PostgreSQL and growing as a full-stack developer
 - 💖 I love **problem-solving**
 - 💻 I am proficient in **Python,C++/Java**
-- 📈 I am looking for a product based company where my skills and knowledge will be best utilized
+- 📈 I am looking for a full time role in a good company where my skills and knowledge will be best utilized
 - 📙 Proficient in DSA
-- 🐸 Fun Fact: In my free time I love playing with [Chess](https://www.chess.com/sw/member/helloardanish) and loves singing, dancing and creating videos
+- 🐸 In my free time I like playing [Chess](https://www.chess.com/sw/member/helloardanish) and creating videos
  
 **Languages**
  

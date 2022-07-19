@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🎓 I am a 1.5 years experience working professional who just love programming
 - 🔭 I’m currently working on sprint boot, microservices, rest-api, angular, java, PostgreSQL and growing as a full-stack developer
 - 💖 I love **problem-solving**
-- 💻 I am proficient in **Python,C++/Java**
+- 💻 I am proficient in **C++, Java, Python**
 - 📈 I am looking for a full time role where my skills and knowledge will be best utilized
 - 📙 Proficient in DSA
 - 🐸 In my free time I like playing [Chess](https://www.chess.com/sw/member/helloardanish) and creating videos

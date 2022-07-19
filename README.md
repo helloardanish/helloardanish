@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 <h1 align="center"><img src="https://slackmojis.com/emojis/4845-rickroll/download" width="20" /> Hi there 👋, welcome! 
 <h2> I'm A R! <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="50" height="60"></h2>
-<h5> Visitor Count : ![](https://komarev.com/ghpvc/?username=helloardanish) </h5> <br>
  <img src="https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif" align="right">
  
 - 🎓 I am a 1.5 years experience working professional who just love programming

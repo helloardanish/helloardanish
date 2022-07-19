@@ -113,7 +113,6 @@ Here are some ideas to get you started:
 -->
   
   
-  <!--
   ![](https://komarev.com/ghpvc/?username=helloardanish)
  <a href="https://github.com/helloardanish?tab=followers"><img src="https://img.shields.io/github/followers/helloardanish?label=Followers&style=social" alt="GitHub Badge"></a>
  <h2>My GitHub Stats<img src="https://media.giphy.com/media/xUPGcg2F3hVmY9FeZW/giphy.gif" width="50"> </h2>
@@ -124,8 +123,6 @@ Here are some ideas to get you started:
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=helloardanish&show_icons=true&theme=radical" alt="helloardanish" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=helloardanish&show_icons=true&theme=tokyonight_duo" alt="helloardanish" /></p>
-      
--->         
   
 
 <h2>Reach out to A R</h2>

@@ -122,6 +122,10 @@ Here are some ideas to get you started:
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=helloardanish&show_icons=true&theme=radical" alt="helloardanish" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=helloardanish&show_icons=true&theme=tokyonight_duo" alt="helloardanish" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloardanish&layout=compact" alt="helloardanish" /></p>
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloardanish&layout=compact)](https://github.com/helloardanish/github-readme-stats)-->
   
 
 <h2>Reach out to A R</h2>

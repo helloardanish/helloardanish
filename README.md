@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  <img src="https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif" align="right">
  
 - 🎓 I am a 5+ years experience working professional who just love programming
-- 🔭 I’m currently working on sprint boot, microservices, rest-api, angular, java, PostgreSQL and growing as a full-stack developer
+- 🔭 I’m currently working on spring boot, microservices, rest-api, angular, java, PostgreSQL and growing as a full-stack developer
 - 💖 I love **problem-solving**
 - 💻 I am proficient in **C++, Java, Python**
 - 📈 I am looking for a full time role where my skills and knowledge will be best utilized

@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 📈 I am looking for a full time role where my skills and knowledge will be best utilized
 - 📙 Proficient in DSA
 - 🐸 In my free time I like playing [Chess](https://www.chess.com/sw/member/helloardanish) and creating videos
-- 💬 I aim to impress myself using my mind 🧠
+- 💬 I aim to impress my heart ❤️ using my mind 🧠
  
 **Languages**
  

@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h2> I'm A R! <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="50" height="60"></h2>
  <img src="https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif" align="right">
  
-- 🎓 I am a 4 years experience working professional who just love programming
+- 🎓 I am a 5+ years experience working professional who just love programming
 - 🔭 I’m currently working on spring boot, microservices, rest-api, angular, java, PostgreSQL and growing as a full-stack developer
 - 💖 I love **problem-solving**
 - 💻 I am proficient in **C++, Java, Python**
